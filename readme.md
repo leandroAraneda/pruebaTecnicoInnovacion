@@ -32,3 +32,6 @@ npm start
 ## Documentación de la API
 
 Para conocer los endpoints y las funcionalidades de la API, consulta la documentación RAML disponible en `docs/`.
+
+## Persistencia de la información
+https://mockapi.io/clone/64243713d6152a4d48098168
